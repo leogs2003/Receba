@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Cinzel&family=Mukta:wght@300&family=Permanent+Marker&family=Roboto+Mono:wght@200&display=swap');
+div{
+    text-align: center;
+    background-color: bisque;
+    height: 920px;
+}
+
+.font1{
+    font-family: 'Bungee', cursive;
+}
+.font2{
+    font-family: 'Cinzel', serif;
+}
+.font3{
+    font-family: 'Mukta', sans-serif;
+}
+.fonte4{
+    font-family: 'Permanent Marker', cursive;   
+}
+.font5{
+    font-family: 'Roboto Mono', monospace;
+}
